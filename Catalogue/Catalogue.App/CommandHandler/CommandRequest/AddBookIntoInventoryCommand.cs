@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Catalogue.App.CommandHandler.CommandRequest
 {
-    public class AddOrder:IRequest<AddOrderResponse>
+    public class AddBookIntoInventoryCommand:IRequest<AddBookInventoryResponse>
     {
         public int BookId { get; set; }
         public int Quantity { get; set; }

@@ -11,10 +11,14 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Catalogue.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.API", "Catalogue.API.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Catalogue.App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.App", "Catalogue.App.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Catalogue.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core", "Catalogue.Core.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Catalogue.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Infra", "Catalogue.Infra.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Catalogue.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue" +
+    ".API", "Catalogue.API.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Catalogue.App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue" +
+    ".App", "Catalogue.App.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Catalogue.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue" +
+    ".Core", "Catalogue.Core.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Catalogue.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue" +
+    ".Infra", "Catalogue.Infra.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CatalogueTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

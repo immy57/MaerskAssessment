@@ -16,9 +16,6 @@ namespace Catalogue.Infra.Repository
             CartRepository = new CartRepository(context);
             BookRepository = new BookRepository(context);
             OrderRepository = new OrderRepository(context);
-
-
-
         }
         public IInventoryRepository InventoryRepository { get; }
 
@@ -30,24 +27,7 @@ namespace Catalogue.Infra.Repository
 
         public async Task<bool> SaveChangeAsync()
         {
-
-
-            return await Context.SaveChangesAsync() > 0;
-            // bool result=false;
-            //using(var scope = Context.Database.BeginTransaction())
-            //{
-            //     try
-            //     {
-            //         result = await Context.SaveChangesAsync() > 0;
-            //         scope.Commit(); 
-            //     }
-            //     catch(Exception ex)
-            //     {
-            //         scope.Rollback();
-            //         throw ex;
-            //     }
-            //}
-            // return result;
+            return await Context.SaveChangesAsync() > 0;           
         }
     }
 }

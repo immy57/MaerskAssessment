@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Catalogue.App.CommandHandler
 {
-    public class AddBookInventoryHandler : IRequestHandler<AddBookIntoInventory, AddBookInventoryResponse>
+    public class AddBookInventoryHandler : IRequestHandler<AddBookIntoInventoryCommand, AddBookInventoryResponse>
     {
         public IUnitOfWorks _unitOfWorks { get; set; }
 
@@ -18,7 +18,7 @@ namespace Catalogue.App.CommandHandler
         {
             _unitOfWorks = unitOfWorks;
         }
-        public async Task<AddBookInventoryResponse> Handle(AddBookIntoInventory request, CancellationToken cancellationToken)
+        public async Task<AddBookInventoryResponse> Handle(AddBookIntoInventoryCommand request, CancellationToken cancellationToken)
         {
             AddBookInventoryResponse response = new AddBookInventoryResponse();
 

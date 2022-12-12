@@ -6829,11 +6829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\CatalogueTest\\CatalogueTest.csproj",
+      "projectUniqueName": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\CatalogueTest\\CatalogueTest.csproj",
       "projectName": "CatalogueTest",
-      "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\CatalogueTest\\CatalogueTest.csproj",
+      "projectPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\CatalogueTest\\CatalogueTest.csproj",
       "packagesPath": "C:\\Users\\imran.sayani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\CatalogueTest\\obj\\",
+      "outputPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\CatalogueTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6853,11 +6853,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.API\\Catalogue.API.csproj": {
-              "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.API\\Catalogue.API.csproj"
+            "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.API\\Catalogue.API.csproj": {
+              "projectPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.API\\Catalogue.API.csproj"
             },
-            "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj": {
-              "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj"
+            "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj": {
+              "projectPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj"
             }
           }
         }

@@ -16,5 +16,7 @@ namespace Catalogue.Core.Contracts
 
         Task Update(T entity);
 
+        Task RemoveItemByCondition(Expression<Func<T, bool>> expression);
+
     }
 }

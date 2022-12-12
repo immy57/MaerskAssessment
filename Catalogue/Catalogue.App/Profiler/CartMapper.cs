@@ -7,12 +7,12 @@ using System.Text;
 
 namespace Catalogue.App.Profiler
 {
-    class InventoryProfile:Profile
+    public class CartMapper:Profile
     {
-        public InventoryProfile()
+        public CartMapper()
         {
-
-            CreateMap<Inventory, InventoryBM>();
+            CreateMap<Cart, CartBM>().ReverseMap();
         }
+       
     }
 }

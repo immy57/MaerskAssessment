@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using System.Text;
 using AutoMapper;
 using Catalogue.App.Models;
-using Catalogue.Core;
+using Catalogue.Core.Models;
 
 namespace Catalogue.App.Profiler
 {
-    public class BookProfiler:Profile
+    public class OrderMapper:Profile
     {
-        public BookProfiler()
+        public OrderMapper()
         {
-            CreateMap<Book, BookBM>();
+            CreateMap<Order, OrderBM>().ReverseMap();
         }
 
     }

@@ -1,5 +1,6 @@
 ﻿using Catalogue.App.CommandHandler.CommandRequest;
 using Catalogue.App.Models;
+using Catalogue.App.Models.ResponseModel;
 using Catalogue.App.QueryHandler.QueryRequest;
 using Catalogue.Core;
 using MediatR;
@@ -44,7 +45,7 @@ namespace Catalogue.API.Controllers
         }
 
         [HttpPut]
-        public async Task<bool> UpdateBookPriceBasedOntitle(UpdatePriceBasedOnTitleCommand updatePriceBasedOnTitleCommand)
+        public async Task<UpdateBookPriceResponse> UpdateBookPriceById(UpdateBookPriceByIdCommand updatePriceBasedOnTitleCommand)
         {
             return await _Mediator.Send(updatePriceBasedOnTitleCommand);
         }

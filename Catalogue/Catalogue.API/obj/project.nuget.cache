@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "haQ+1VOPM1v6VWiMuek0OeuqVkIhwdIjTKNu6EqoIdf59xeXXBbnubtxH36O8w1jLvY9NJBOBb+uELRtrlfSIg==",
+  "dgSpecHash": "Bn8Fd/XmdzUoobLRnOxdqYY5hol0AhCaU+bHWctSdsLcZy0eXa72O9hBevr4jSt480iqLofLhfzSsaTavFHVmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.API\\Catalogue.API.csproj",
+  "projectFilePath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.API\\Catalogue.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\imran.sayani\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\imran.sayani\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

@@ -51,6 +51,30 @@ namespace Catalogue.Infra
 
             });
 
+            modelBuilder.Entity<Order>().HasData(new List<Order>()
+            {
+                new Order()
+                {
+                   Id=1,
+                   Quantity=1,
+                   BookId=1
+                }
+
+            });
+
+            modelBuilder.Entity<Cart>().HasData(new List<Cart>()
+            {
+                new Cart()
+                {
+                  Id=1,
+                  BookId=1,
+                  Quantity=1,
+                  Price=12.12M,
+                  TotalCost=12.12M
+                }
+
+            });
+
 
             modelBuilder.Entity<Inventory>().HasData(new Inventory()
             {

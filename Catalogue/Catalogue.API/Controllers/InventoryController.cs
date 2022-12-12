@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Catalogue.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class InventoryController : ControllerBase
     {
@@ -21,7 +21,7 @@ namespace Catalogue.API.Controllers
             _mediator = mediator;
         }
         [HttpPost]
-        public async Task<AddBookInventoryResponse> AddBookIntoInventory(AddBookIntoInventory addBookIntoInventory)
+        public async Task<AddBookInventoryResponse> AddBookIntoInventory(AddBookIntoInventoryCommand addBookIntoInventory)
         {
            return await  _mediator.Send(addBookIntoInventory);
         }

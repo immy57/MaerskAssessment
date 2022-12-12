@@ -1,3 +1,4 @@
+using Catalogue.API.Middleware;
 using Catalogue.App.Profiler;
 using Catalogue.App.QueryHandler;
 using Catalogue.Core.Contracts;
@@ -41,7 +42,7 @@ namespace Catalogue.API
             services.AddScoped<ICartRepository, CartRepository>();
             services.AddScoped<IOrderRepository, OrderRepository>();
             services.AddMediatR(typeof(GetAllBookHandler).Assembly);
-            services.AddAutoMapper(typeof(BookProfiler).Assembly);
+            services.AddAutoMapper(typeof(BookMapper).Assembly);
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Catalogue API", Version = "v1" });
@@ -69,6 +70,7 @@ namespace Catalogue.API
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseCustomExceptionHanlder();
 
             app.UseEndpoints(endpoints =>
             {

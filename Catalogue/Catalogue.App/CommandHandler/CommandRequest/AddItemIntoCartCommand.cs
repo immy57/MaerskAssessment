@@ -6,9 +6,9 @@ using System.Text;
 
 namespace Catalogue.App.CommandHandler.CommandRequest
 {
-    public class AddBookIntoInventory:IRequest<AddBookInventoryResponse>
+   public class AddItemIntoCartCommand:IRequest<AddCartItemResponse>
     {
-        public int BookId { get; set; }
         public int Quantity { get; set; }
+        public int BookId { get; set; }
     }
 }

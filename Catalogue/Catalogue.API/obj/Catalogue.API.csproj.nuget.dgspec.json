@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.API\\Catalogue.API.csproj": {}
+    "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.API\\Catalogue.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.API\\Catalogue.API.csproj": {
+    "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.API\\Catalogue.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.API\\Catalogue.API.csproj",
+        "projectUniqueName": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.API\\Catalogue.API.csproj",
         "projectName": "Catalogue.API",
-        "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.API\\Catalogue.API.csproj",
+        "projectPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.API\\Catalogue.API.csproj",
         "packagesPath": "C:\\Users\\imran.sayani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.API\\obj\\",
+        "outputPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,14 +31,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.App\\Catalogue.App.csproj": {
-                "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.App\\Catalogue.App.csproj"
+              "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.App\\Catalogue.App.csproj": {
+                "projectPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.App\\Catalogue.App.csproj"
               },
-              "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj": {
-                "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj"
+              "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj": {
+                "projectPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj"
               },
-              "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj": {
-                "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj"
+              "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj": {
+                "projectPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj"
               }
             }
           }
@@ -110,14 +110,14 @@
         }
       }
     },
-    "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.App\\Catalogue.App.csproj": {
+    "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.App\\Catalogue.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.App\\Catalogue.App.csproj",
+        "projectUniqueName": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.App\\Catalogue.App.csproj",
         "projectName": "Catalogue.App",
-        "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.App\\Catalogue.App.csproj",
+        "projectPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.App\\Catalogue.App.csproj",
         "packagesPath": "C:\\Users\\imran.sayani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.App\\obj\\",
+        "outputPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -137,8 +137,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj": {
-                "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj"
+              "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj": {
+                "projectPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj"
               }
             }
           }
@@ -181,14 +181,14 @@
         }
       }
     },
-    "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj": {
+    "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj",
+        "projectUniqueName": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj",
         "projectName": "Catalogue.Core",
-        "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj",
+        "projectPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj",
         "packagesPath": "C:\\Users\\imran.sayani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\obj\\",
+        "outputPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -238,14 +238,14 @@
         }
       }
     },
-    "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj": {
+    "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj",
         "projectName": "Catalogue.Infra",
-        "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj",
+        "projectPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj",
         "packagesPath": "C:\\Users\\imran.sayani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Infra\\obj\\",
+        "outputPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -265,8 +265,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj": {
-                "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj"
+              "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj": {
+                "projectPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj"
               }
             }
           }

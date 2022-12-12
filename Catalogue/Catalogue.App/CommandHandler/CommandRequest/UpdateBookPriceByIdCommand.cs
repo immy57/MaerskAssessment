@@ -1,13 +1,14 @@
-﻿using MediatR;
+﻿using Catalogue.App.Models.ResponseModel;
+using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Catalogue.App.CommandHandler.CommandRequest
 {
-    public class UpdatePriceBasedOnTitleCommand:IRequest<bool>
+    public class UpdateBookPriceByIdCommand:IRequest<UpdateBookPriceResponse>
     {
         public decimal Price { get; set; }
-        public string Title { get; set; }
+        public int Id { get; set; }
     }
 }
