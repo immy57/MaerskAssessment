@@ -1,0 +1,407 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\CatalogueTest\\CatalogueTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.API\\Catalogue.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.API\\Catalogue.API.csproj",
+        "projectName": "Catalogue.API",
+        "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.API\\Catalogue.API.csproj",
+        "packagesPath": "C:\\Users\\imran.sayani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\imran.sayani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.App\\Catalogue.App.csproj": {
+                "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.App\\Catalogue.App.csproj"
+              },
+              "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj": {
+                "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj"
+              },
+              "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj": {
+                "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.App\\Catalogue.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.App\\Catalogue.App.csproj",
+        "projectName": "Catalogue.App",
+        "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.App\\Catalogue.App.csproj",
+        "packagesPath": "C:\\Users\\imran.sayani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\imran.sayani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj": {
+                "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj",
+        "projectName": "Catalogue.Core",
+        "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj",
+        "packagesPath": "C:\\Users\\imran.sayani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\imran.sayani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj",
+        "projectName": "Catalogue.Infra",
+        "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj",
+        "packagesPath": "C:\\Users\\imran.sayani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\imran.sayani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj": {
+                "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\CatalogueTest\\CatalogueTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\CatalogueTest\\CatalogueTest.csproj",
+        "projectName": "CatalogueTest",
+        "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\CatalogueTest\\CatalogueTest.csproj",
+        "packagesPath": "C:\\Users\\imran.sayani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\CatalogueTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\imran.sayani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.API\\Catalogue.API.csproj": {
+                "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.API\\Catalogue.API.csproj"
+              },
+              "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj": {
+                "projectPath": "C:\\Users\\imran.sayani\\Desktop\\Maersk\\Catalogue\\Catalogue.Infra\\Catalogue.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[3.1.31, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
