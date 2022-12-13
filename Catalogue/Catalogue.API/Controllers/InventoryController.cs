@@ -1,5 +1,5 @@
 ﻿using Catalogue.App.CommandHandler.CommandRequest;
-using Catalogue.App.Models;
+using Catalogue.Core.Models;
 using Catalogue.App.QueryHandler.QueryRequest;
 using MediatR;
 using Microsoft.AspNetCore.Http;
@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Catalogue.Core.Models.ResponseModel;
 
 namespace Catalogue.API.Controllers
 {

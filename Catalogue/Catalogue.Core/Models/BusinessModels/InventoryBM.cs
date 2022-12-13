@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Catalogue.App.Models
+namespace Catalogue.Core.Models
 {
-    public class OrderBM
+    public class InventoryBM
     {
-        public int Id { get; set; }
         public int BookId { get; set; }
         public int Quantity { get; set; }
     }
 }
+

@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using Catalogue.App.Models;
+using Catalogue.Core.Models;
 using Catalogue.App.QueryHandler;
 using Catalogue.App.QueryHandler.QueryRequest;
 using Catalogue.Core;

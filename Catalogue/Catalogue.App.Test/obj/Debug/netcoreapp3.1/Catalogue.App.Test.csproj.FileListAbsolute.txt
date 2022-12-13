@@ -110,14 +110,14 @@ C:\Users\imran.sayani\Desktop\Maersk\Catalogue\Catalogue.App.Test\obj\Debug\netc
 C:\Users\imran.sayani\Desktop\Maersk\Catalogue\Catalogue.App.Test\obj\Debug\netcoreapp3.1\Catalogue.App.Test.genruntimeconfig.cache
 C:\Users\imran.sayani\Desktop\Maersk\Catalogue\Catalogue.App.Test\obj\Debug\netcoreapp3.1\Catalogue.App.Test.csproj.AssemblyReference.cache
 C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.App.Test\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
-C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.App.Test\bin\Debug\netcoreapp3.1\testhost.exe
 C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.App.Test\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.App.Test\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.App.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.App.Test\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
 C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.App.Test\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
 C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.App.Test\bin\Debug\netcoreapp3.1\nunit.engine.dll
 C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.App.Test\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
 C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.App.Test\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
-C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.App.Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.App.Test\bin\Debug\netcoreapp3.1\Catalogue.App.Test.deps.json
 C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.App.Test\bin\Debug\netcoreapp3.1\Catalogue.App.Test.runtimeconfig.json
 C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.App.Test\bin\Debug\netcoreapp3.1\Catalogue.App.Test.runtimeconfig.dev.json

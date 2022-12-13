@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using Catalogue.App.Models;
+using Catalogue.Core.Models;
 using Catalogue.App.QueryHandler.QueryRequest;
 using Catalogue.Core.Contracts;
 using MediatR;
@@ -8,6 +8,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using Catalogue.Core.Models.ResponseModel;
 
 namespace Catalogue.App.QueryHandler
 {

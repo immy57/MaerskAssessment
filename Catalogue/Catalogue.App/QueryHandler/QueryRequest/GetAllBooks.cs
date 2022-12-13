@@ -1,4 +1,4 @@
-﻿using Catalogue.App.Models;
+﻿using Catalogue.Core.Models;
 using Catalogue.Core;
 using MediatR;
 using System;

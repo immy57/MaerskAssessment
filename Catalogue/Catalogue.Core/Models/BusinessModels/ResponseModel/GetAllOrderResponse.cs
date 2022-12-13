@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Catalogue.App.Models
+namespace Catalogue.Core.Models.ResponseModel
 {
     public class GetAllOrderResponse:Base
     {

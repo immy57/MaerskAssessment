@@ -1,4 +1,4 @@
-﻿using Catalogue.App.Models;
+﻿using Catalogue.Core.Models;
 using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;

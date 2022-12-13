@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Catalogue.App.Models.ResponseModel
+namespace Catalogue.Core.Models.ResponseModel
 {
     public class UpdateBookPriceResponse:Base
     {

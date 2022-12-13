@@ -1,6 +1,7 @@
 ﻿using Catalogue.App.CommandHandler.CommandRequest;
-using Catalogue.App.Models;
+
 using Catalogue.Core.Contracts;
+using Catalogue.Core.Models.ResponseModel;
 using MediatR;
 using System;
 using System.Collections.Generic;

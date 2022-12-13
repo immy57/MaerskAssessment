@@ -1,5 +1,5 @@
 ﻿using Catalogue.App.CommandHandler.CommandRequest;
-using Catalogue.App.Models.ResponseModel;
+using Catalogue.Core.Models.ResponseModel;
 using Catalogue.Core.Contracts;
 using MediatR;
 using System;

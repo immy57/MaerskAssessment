@@ -1,5 +1,5 @@
 ﻿using Catalogue.App.CommandHandler.CommandRequest;
-using Catalogue.App.Models;
+using Catalogue.Core.Models;
 using Catalogue.Core.Contracts;
 using MediatR;
 using System;
@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using Catalogue.Core.Models.ResponseModel;
 
 namespace Catalogue.App.CommandHandler
 {

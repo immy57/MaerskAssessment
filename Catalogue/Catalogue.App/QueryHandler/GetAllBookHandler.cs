@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Linq;
-using Catalogue.App.Models;
+using Catalogue.Core.Models;
 using AutoMapper;
 
 namespace Catalogue.App.QueryHandler

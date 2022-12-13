@@ -1,6 +1,6 @@
 ﻿using Catalogue.App.CommandHandler.CommandRequest;
-using Catalogue.App.Models;
-using Catalogue.App.Models.ResponseModel;
+using Catalogue.Core.Models;
+using Catalogue.Core.Models.ResponseModel;
 using Catalogue.App.QueryHandler.QueryRequest;
 using Catalogue.Core;
 using MediatR;

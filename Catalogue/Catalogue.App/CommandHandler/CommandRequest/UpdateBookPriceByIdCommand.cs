@@ -1,4 +1,5 @@
-﻿using Catalogue.App.Models.ResponseModel;
+﻿using Catalogue.Core.Models.ResponseModel;
+
 using MediatR;
 using System;
 using System.Collections.Generic;

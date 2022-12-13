@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Catalogue.App.Models
+namespace Catalogue.Core.Models.ResponseModel
 {
-    public class AddBookInventoryResponse:Base
+    public class AddCartItemResponse:Base
     {
         public string Message { get; set; }
     }
