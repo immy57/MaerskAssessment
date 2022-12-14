@@ -9,13 +9,14 @@ namespace Catalogue.Infra.Repository
     public class UnitOfWorks : IUnitOfWorks
     {
         public CatalogueContext Context { get; set; }
-        public UnitOfWorks(CatalogueContext context)
+        public UnitOfWorks(CatalogueContext context,IInventoryRepository inventoryRepository,
+            ICartRepository cartRepository, IBookRepository bookRepository, IOrderRepository orderRepository)
         {
             Context = context;
-            InventoryRepository = new InventoryRepository(context);
-            CartRepository = new CartRepository(context);
-            BookRepository = new BookRepository(context);
-            OrderRepository = new OrderRepository(context);
+            InventoryRepository = inventoryRepository;
+            CartRepository = cartRepository;
+            BookRepository = bookRepository;
+            OrderRepository = orderRepository;
         }
         public IInventoryRepository InventoryRepository { get; }
 

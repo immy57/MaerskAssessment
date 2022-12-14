@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj": {}
+    "C:\\Users\\imran.sayani\\Desktop\\BusinessModels\\New folder\\MaerskAssessment\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj": {
+    "C:\\Users\\imran.sayani\\Desktop\\BusinessModels\\New folder\\MaerskAssessment\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj",
+        "projectUniqueName": "C:\\Users\\imran.sayani\\Desktop\\BusinessModels\\New folder\\MaerskAssessment\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj",
         "projectName": "Catalogue.Core",
-        "projectPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj",
+        "projectPath": "C:\\Users\\imran.sayani\\Desktop\\BusinessModels\\New folder\\MaerskAssessment\\Catalogue\\Catalogue.Core\\Catalogue.Core.csproj",
         "packagesPath": "C:\\Users\\imran.sayani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.Core\\obj\\",
+        "outputPath": "C:\\Users\\imran.sayani\\Desktop\\BusinessModels\\New folder\\MaerskAssessment\\Catalogue\\Catalogue.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

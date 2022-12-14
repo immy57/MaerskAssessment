@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eEibbqTe+D1GMa/VBtKd60hAFtPMM4SVIzUh1LJqFjcCfWuGH8P/NFM1x4h4JEzl3uQRcWKHeJeKJpRoDNzDkg==",
+  "dgSpecHash": "i7IedqkBtfxQzHJZi9M7BPK4RJDRI5eIeCaQnvnJ5V6DzSWhp+F86jwKiBiqRxcButrSsTVPIN3a9RGhcwfbnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\imran.sayani\\Desktop\\New folder (5)\\MaerskAssessment\\Catalogue\\Catalogue.App\\Catalogue.App.csproj",
+  "projectFilePath": "C:\\Users\\imran.sayani\\Desktop\\BusinessModels\\New folder\\MaerskAssessment\\Catalogue\\Catalogue.App\\Catalogue.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\imran.sayani\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\imran.sayani\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",

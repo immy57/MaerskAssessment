@@ -35,12 +35,14 @@ namespace Catalogue.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddDbContext<CatalogueContext>(opt => opt.UseInMemoryDatabase("Catalogue.db"));
+            services.AddDbContext<CatalogueContext>(opt => opt.UseInMemoryDatabase("Catalogue.db"),ServiceLifetime.Singleton);
             services.AddScoped(typeof(IRepositoryBase<>), typeof(RepositoryBase<>));
-            services.AddScoped<IBookRepository, BookRepository>();
-            services.AddScoped<IUnitOfWorks, UnitOfWorks>();
-            services.AddScoped<ICartRepository, CartRepository>();
             services.AddScoped<IOrderRepository, OrderRepository>();
+            services.AddScoped<IBookRepository, BookRepository>();
+            services.AddScoped<IInventoryRepository, InventoryRepository>();
+            services.AddScoped<ICartRepository, CartRepository>();
+           
+            services.AddScoped<IUnitOfWorks, UnitOfWorks>();
             services.AddMediatR(typeof(GetAllBookHandler).Assembly);
             services.AddAutoMapper(typeof(BookMapper).Assembly);
             services.AddSwaggerGen(c =>
@@ -55,7 +57,7 @@ namespace Catalogue.API
         {
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
+               // app.UseDeveloperExceptionPage();
                 app.UseSwagger();
                 // Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.),
                 // specifying the Swagger JSON endpoint.

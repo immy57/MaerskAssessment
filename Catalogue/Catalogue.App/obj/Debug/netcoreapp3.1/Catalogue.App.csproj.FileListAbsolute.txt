@@ -24,3 +24,16 @@ C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogu
 C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.App\obj\Debug\netcoreapp3.1\Catalogue.App.csproj.CopyComplete
 C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.App\obj\Debug\netcoreapp3.1\Catalogue.App.dll
 C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.App\obj\Debug\netcoreapp3.1\Catalogue.App.pdb
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.App\bin\Debug\netcoreapp3.1\Catalogue.App.deps.json
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.App\bin\Debug\netcoreapp3.1\Catalogue.App.dll
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.App\bin\Debug\netcoreapp3.1\Catalogue.App.pdb
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.App\bin\Debug\netcoreapp3.1\Catalogue.Core.dll
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.App\bin\Debug\netcoreapp3.1\Catalogue.Core.pdb
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.App\obj\Debug\netcoreapp3.1\Catalogue.App.csproj.AssemblyReference.cache
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.App\obj\Debug\netcoreapp3.1\Catalogue.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.App\obj\Debug\netcoreapp3.1\Catalogue.App.AssemblyInfoInputs.cache
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.App\obj\Debug\netcoreapp3.1\Catalogue.App.AssemblyInfo.cs
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.App\obj\Debug\netcoreapp3.1\Catalogue.App.csproj.CoreCompileInputs.cache
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.App\obj\Debug\netcoreapp3.1\Catalogue.App.csproj.CopyComplete
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.App\obj\Debug\netcoreapp3.1\Catalogue.App.dll
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.App\obj\Debug\netcoreapp3.1\Catalogue.App.pdb

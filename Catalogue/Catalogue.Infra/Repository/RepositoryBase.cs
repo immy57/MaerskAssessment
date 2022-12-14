@@ -29,7 +29,7 @@ namespace Catalogue.Infra
 
         public async Task Add(T entity)
         {
-            _context.Set<T>().Add(entity);
+            await _context.Set<T>().AddAsync(entity);
         }
 
         public Task Update(T entity)

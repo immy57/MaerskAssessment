@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Text;
 using AutoMapper;
 using Catalogue.Core.Models;
-using Catalogue.Core.Models;
 
 namespace Catalogue.App.Profiler
 {

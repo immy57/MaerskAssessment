@@ -34,10 +34,7 @@ namespace Catalogue.API.Middleware
         {
             context.Response.ContentType = "application/json";
             context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
-            await context.Response.WriteAsync(new Base()
-            {
-                ErrorMessage = "Internal Server Error"
-            }.ToString());
+            await context.Response.WriteAsync("Internal server error");
         }
     }
 }

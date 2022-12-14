@@ -9,5 +9,6 @@ namespace Catalogue.App.QueryHandler.QueryRequest
 {
     public class GetAllBooks:IRequest<IList<BookBM>>
     {
+        
     }
 }

@@ -17,3 +17,13 @@ C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogu
 C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.Core\obj\Debug\netcoreapp3.1\Catalogue.Core.csproj.CoreCompileInputs.cache
 C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.Core\obj\Debug\netcoreapp3.1\Catalogue.Core.dll
 C:\Users\imran.sayani\Desktop\New folder (5)\MaerskAssessment\Catalogue\Catalogue.Core\obj\Debug\netcoreapp3.1\Catalogue.Core.pdb
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.Core\bin\Debug\netcoreapp3.1\Catalogue.Core.deps.json
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.Core\bin\Debug\netcoreapp3.1\Catalogue.Core.dll
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.Core\bin\Debug\netcoreapp3.1\Catalogue.Core.pdb
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.Core\obj\Debug\netcoreapp3.1\Catalogue.Core.csproj.AssemblyReference.cache
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.Core\obj\Debug\netcoreapp3.1\Catalogue.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.Core\obj\Debug\netcoreapp3.1\Catalogue.Core.AssemblyInfoInputs.cache
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.Core\obj\Debug\netcoreapp3.1\Catalogue.Core.AssemblyInfo.cs
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.Core\obj\Debug\netcoreapp3.1\Catalogue.Core.csproj.CoreCompileInputs.cache
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.Core\obj\Debug\netcoreapp3.1\Catalogue.Core.dll
+C:\Users\imran.sayani\Desktop\BusinessModels\New folder\MaerskAssessment\Catalogue\Catalogue.Core\obj\Debug\netcoreapp3.1\Catalogue.Core.pdb

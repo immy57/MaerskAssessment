@@ -1,6 +1,5 @@
 ﻿using AutoMapper;
 using Catalogue.Core.Models;
-using Catalogue.Core.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
